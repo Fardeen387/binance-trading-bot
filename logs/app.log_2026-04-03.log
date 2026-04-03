@@ -1,0 +1,8 @@
+2026-04-03 21:28:25,820 - TradingBot - INFO - MOCK Binance Testnet Client Initialized (No KYC Mode)
+2026-04-03 21:28:25,821 - TradingBot - INFO - MOCK REQUEST: BUY MARKET 0.001 BTCUSDT @ None
+2026-04-03 21:28:26,322 - TradingBot - INFO - MOCK RESPONSE: Order 1643010125 - Status: FILLED
+2026-04-03 21:29:23,471 - TradingBot - INFO - MOCK Binance Testnet Client Initialized (No KYC Mode)
+2026-04-03 21:29:23,471 - TradingBot - INFO - MOCK REQUEST: SELL LIMIT 0.002 BTCUSDT @ 68500.0
+2026-04-03 21:29:23,972 - TradingBot - INFO - MOCK RESPONSE: Order 9572217941 - Status: FILLED
+2026-04-03 21:30:19,886 - TradingBot - INFO - MOCK Binance Testnet Client Initialized (No KYC Mode)
+2026-04-03 21:30:19,887 - TradingBot - ERROR - Validation Failed: Price is required for LIMIT orders.
